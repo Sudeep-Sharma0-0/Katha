@@ -1,0 +1,24 @@
+{
+  "name": "katha",
+  "version": "1.0.0",
+  "description": "A platform to share personal stories and life experiences.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Sudeep-Sharma0-0/Katha.git"
+  },
+  "keywords": [
+    "blog",
+    "writing",
+    "web"
+  ],
+  "author": "Somnath Poudel",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/Sudeep-Sharma0-0/Katha/issues"
+  },
+  "homepage": "https://github.com/Sudeep-Sharma0-0/Katha#readme"
+}
